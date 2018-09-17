@@ -11,11 +11,11 @@ Copyright (c) 2018 - mital_04
 Table of contents
 01. Loading
 02. Common
-03. Section title
+03. Section Title
 04. Buttons
 05. Header
 06. Home Banner
-07. About us
+07. About Us
 08. Video Section
 09. Feature Box
 10. Count
@@ -112,7 +112,9 @@ body {
 }
 
 img {
-  max-width: 100%;
+  display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .section {
