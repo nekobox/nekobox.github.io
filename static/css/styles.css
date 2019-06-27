@@ -115,6 +115,12 @@ ol li::before {
   font-weight: Medium;
 }
 
+ul {
+  list-style-type: circle;
+  color: #ffffff;
+  font-size: 16px;
+}
+
 body {
   font-family: 'Poppins', sans-serif;
   -webkit-font-smoothing: antialiased;
